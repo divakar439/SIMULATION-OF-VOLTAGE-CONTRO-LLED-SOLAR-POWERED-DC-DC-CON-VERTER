@@ -116,4 +116,3 @@ By using a closed-loop PI control system, a boost converter can provide accurate
 ## Result:
 
 Thus, the closed loop output voltage control of solar powered dc/dc boost converter using PI controller is simulated using MATLAB.
-
